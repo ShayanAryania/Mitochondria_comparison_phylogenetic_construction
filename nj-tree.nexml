@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><nex:nexml xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generator="org.nexml.model.impl.DocumentImpl" version="0.9">
+  <otus id="otus1">
+    <otu id="otu5" label="Inner31"/>
+    <otu id="otu7" label="Inner30"/>
+    <otu id="otu9" label="Inner26"/>
+    <otu id="otu11" label="NC_060520.1"/>
+    <otu id="otu13" label="Inner23"/>
+    <otu id="otu15" label="Inner13"/>
+    <otu id="otu17" label="Inner7"/>
+    <otu id="otu19" label="NC_027095.1"/>
+    <otu id="otu21" label="NC_045042.1"/>
+    <otu id="otu25" label="Inner12"/>
+    <otu id="otu27" label="NC_009684.1"/>
+    <otu id="otu29" label="NC_023832.1"/>
+    <otu id="otu35" label="Inner20"/>
+    <otu id="otu37" label="Inner19"/>
+    <otu id="otu39" label="NC_037853.1"/>
+    <otu id="otu41" label="Inner18"/>
+    <otu id="otu43" label="Inner17"/>
+    <otu id="otu45" label="Inner15"/>
+    <otu id="otu47" label="NC_010340.2"/>
+    <otu id="otu49" label="Inner9"/>
+    <otu id="otu51" label="Inner8"/>
+    <otu id="otu53" label="NC_014770.1"/>
+    <otu id="otu55" label="NC_028302.1"/>
+    <otu id="otu59" label="NC_001700.1"/>
+    <otu id="otu65" label="Inner16"/>
+    <otu id="otu67" label="NC_001941.1"/>
+    <otu id="otu69" label="Inner14"/>
+    <otu id="otu71" label="NC_026542.1"/>
+    <otu id="otu73" label="NC_029849.1"/>
+    <otu id="otu81" label="Inner11"/>
+    <otu id="otu83" label="NC_005089.1"/>
+    <otu id="otu85" label="NC_001665.2"/>
+    <otu id="otu93" label="Inner10"/>
+    <otu id="otu95" label="Inner5"/>
+    <otu id="otu97" label="Inner3"/>
+    <otu id="otu99" label="KU965151.1"/>
+    <otu id="otu101" label="Inner2"/>
+    <otu id="otu103" label="MW392901.1"/>
+    <otu id="otu105" label="Inner1"/>
+    <otu id="otu107" label="MW703462.1"/>
+    <otu id="otu109" label="MT941681.1"/>
+    <otu id="otu117" label="OR620163.1"/>
+    <otu id="otu121" label="Inner6"/>
+    <otu id="otu123" label="Inner4"/>
+    <otu id="otu125" label="NC_024511.2"/>
+    <otu id="otu127" label="NC_003081.2"/>
+    <otu id="otu131" label="NC_051932.1"/>
+    <otu id="otu143" label="Inner29"/>
+    <otu id="otu145" label="Inner25"/>
+    <otu id="otu147" label="NC_002785.1"/>
+    <otu id="otu149" label="Inner24"/>
+    <otu id="otu151" label="NC_002784.1"/>
+    <otu id="otu153" label="MN356385.1"/>
+    <otu id="otu159" label="NC_053523.1"/>
+    <otu id="otu165" label="Inner28"/>
+    <otu id="otu167" label="Inner27"/>
+    <otu id="otu169" label="NC_013978.1"/>
+    <otu id="otu171" label="Inner21"/>
+    <otu id="otu173" label="NC_027938.1"/>
+    <otu id="otu175" label="NC_022817.1"/>
+    <otu id="otu181" label="MZ318036.1"/>
+    <otu id="otu185" label="Inner22"/>
+    <otu id="otu187" label="NC_007897.1"/>
+    <otu id="otu189" label="NC_026461.1"/>
+  </otus>
+  <trees id="trees2" otus="otus1">
+    <tree about="#tree3" id="tree3" label="Tree1" xsi:type="nex:FloatTree">
+      <meta content="node4" datatype="xsd:string" id="meta195" property="root" xsi:type="nex:LiteralMeta"/>
+      <node id="node4" label="Inner31" otu="otu5"/>
+      <node id="node6" label="Inner30" otu="otu7"/>
+      <node id="node8" label="Inner26" otu="otu9"/>
+      <node id="node10" label="NC_060520.1" otu="otu11"/>
+      <node id="node12" label="Inner23" otu="otu13"/>
+      <node id="node14" label="Inner13" otu="otu15"/>
+      <node id="node16" label="Inner7" otu="otu17"/>
+      <node id="node18" label="NC_027095.1" otu="otu19"/>
+      <node id="node20" label="NC_045042.1" otu="otu21"/>
+      <node id="node24" label="Inner12" otu="otu25"/>
+      <node id="node26" label="NC_009684.1" otu="otu27"/>
+      <node id="node28" label="NC_023832.1" otu="otu29"/>
+      <node id="node34" label="Inner20" otu="otu35"/>
+      <node id="node36" label="Inner19" otu="otu37"/>
+      <node id="node38" label="NC_037853.1" otu="otu39"/>
+      <node id="node40" label="Inner18" otu="otu41"/>
+      <node id="node42" label="Inner17" otu="otu43"/>
+      <node id="node44" label="Inner15" otu="otu45"/>
+      <node id="node46" label="NC_010340.2" otu="otu47"/>
+      <node id="node48" label="Inner9" otu="otu49"/>
+      <node id="node50" label="Inner8" otu="otu51"/>
+      <node id="node52" label="NC_014770.1" otu="otu53"/>
+      <node id="node54" label="NC_028302.1" otu="otu55"/>
+      <node id="node58" label="NC_001700.1" otu="otu59"/>
+      <node id="node64" label="Inner16" otu="otu65"/>
+      <node id="node66" label="NC_001941.1" otu="otu67"/>
+      <node id="node68" label="Inner14" otu="otu69"/>
+      <node id="node70" label="NC_026542.1" otu="otu71"/>
+      <node id="node72" label="NC_029849.1" otu="otu73"/>
+      <node id="node80" label="Inner11" otu="otu81"/>
+      <node id="node82" label="NC_005089.1" otu="otu83"/>
+      <node id="node84" label="NC_001665.2" otu="otu85"/>
+      <node id="node92" label="Inner10" otu="otu93"/>
+      <node id="node94" label="Inner5" otu="otu95"/>
+      <node id="node96" label="Inner3" otu="otu97"/>
+      <node id="node98" label="KU965151.1" otu="otu99"/>
+      <node id="node100" label="Inner2" otu="otu101"/>
+      <node id="node102" label="MW392901.1" otu="otu103"/>
+      <node id="node104" label="Inner1" otu="otu105"/>
+      <node id="node106" label="MW703462.1" otu="otu107"/>
+      <node id="node108" label="MT941681.1" otu="otu109"/>
+      <node id="node116" label="OR620163.1" otu="otu117"/>
+      <node id="node120" label="Inner6" otu="otu121"/>
+      <node id="node122" label="Inner4" otu="otu123"/>
+      <node id="node124" label="NC_024511.2" otu="otu125"/>
+      <node id="node126" label="NC_003081.2" otu="otu127"/>
+      <node id="node130" label="NC_051932.1" otu="otu131"/>
+      <node id="node142" label="Inner29" otu="otu143"/>
+      <node id="node144" label="Inner25" otu="otu145"/>
+      <node id="node146" label="NC_002785.1" otu="otu147"/>
+      <node id="node148" label="Inner24" otu="otu149"/>
+      <node id="node150" label="NC_002784.1" otu="otu151"/>
+      <node id="node152" label="MN356385.1" otu="otu153"/>
+      <node id="node158" label="NC_053523.1" otu="otu159"/>
+      <node id="node164" label="Inner28" otu="otu165"/>
+      <node id="node166" label="Inner27" otu="otu167"/>
+      <node id="node168" label="NC_013978.1" otu="otu169"/>
+      <node id="node170" label="Inner21" otu="otu171"/>
+      <node id="node172" label="NC_027938.1" otu="otu173"/>
+      <node id="node174" label="NC_022817.1" otu="otu175"/>
+      <node id="node180" label="MZ318036.1" otu="otu181"/>
+      <node id="node184" label="Inner22" otu="otu185"/>
+      <node id="node186" label="NC_007897.1" otu="otu187"/>
+      <node id="node188" label="NC_026461.1" otu="otu189"/>
+      <edge id="edge22" length="0.05432" source="node16" target="node18"/>
+      <edge id="edge23" length="0.10187" source="node16" target="node20"/>
+      <edge id="edge30" length="0.02983" source="node24" target="node26"/>
+      <edge id="edge31" length="0.03132" source="node24" target="node28"/>
+      <edge id="edge32" length="0.06963" source="node14" target="node16"/>
+      <edge id="edge33" length="0.018" source="node14" target="node24"/>
+      <edge id="edge56" length="0.02702" source="node50" target="node52"/>
+      <edge id="edge57" length="0.02072" source="node50" target="node54"/>
+      <edge id="edge60" length="0.00628" source="node48" target="node50"/>
+      <edge id="edge61" length="0.03022" source="node48" target="node58"/>
+      <edge id="edge62" length="0.0659" source="node44" target="node46"/>
+      <edge id="edge63" length="0.04441" source="node44" target="node48"/>
+      <edge id="edge74" length="0.05763" source="node68" target="node70"/>
+      <edge id="edge75" length="0.06595" source="node68" target="node72"/>
+      <edge id="edge76" length="0.05558" source="node64" target="node66"/>
+      <edge id="edge77" length="0.00313" source="node64" target="node68"/>
+      <edge id="edge78" length="0.00251" source="node42" target="node44"/>
+      <edge id="edge79" length="0.0013" source="node42" target="node64"/>
+      <edge id="edge86" length="0.04161" source="node80" target="node82"/>
+      <edge id="edge87" length="0.04021" source="node80" target="node84"/>
+      <edge id="edge88" length="0.00686" source="node40" target="node42"/>
+      <edge id="edge89" length="0.027" source="node40" target="node80"/>
+      <edge id="edge90" length="0.0723" source="node36" target="node38"/>
+      <edge id="edge91" length="0.00473" source="node36" target="node40"/>
+      <edge id="edge110" length="0.00459" source="node104" target="node106"/>
+      <edge id="edge111" length="0.00217" source="node104" target="node108"/>
+      <edge id="edge112" length="0.00896" source="node100" target="node102"/>
+      <edge id="edge113" length="0.01199" source="node100" target="node104"/>
+      <edge id="edge114" length="0.02026" source="node96" target="node98"/>
+      <edge id="edge115" length="0.01246" source="node96" target="node100"/>
+      <edge id="edge118" length="0.12426" source="node94" target="node96"/>
+      <edge id="edge119" length="0.03419" source="node94" target="node116"/>
+      <edge id="edge128" length="0.15902" source="node122" target="node124"/>
+      <edge id="edge129" length="0.0689" source="node122" target="node126"/>
+      <edge id="edge132" length="0.0929" source="node120" target="node122"/>
+      <edge id="edge133" length="0.15865" source="node120" target="node130"/>
+      <edge id="edge134" length="0.12168" source="node92" target="node94"/>
+      <edge id="edge135" length="0.08885" source="node92" target="node120"/>
+      <edge id="edge136" length="0.03183" source="node34" target="node36"/>
+      <edge id="edge137" length="0.04551" source="node34" target="node92"/>
+      <edge id="edge138" length="0.03119" source="node12" target="node14"/>
+      <edge id="edge139" length="0.0271" source="node12" target="node34"/>
+      <edge id="edge140" length="0.1086" source="node8" target="node10"/>
+      <edge id="edge141" length="0.01276" source="node8" target="node12"/>
+      <edge id="edge154" length="0.0395" source="node148" target="node150"/>
+      <edge id="edge155" length="0.04152" source="node148" target="node152"/>
+      <edge id="edge156" length="0.04135" source="node144" target="node146"/>
+      <edge id="edge157" length="0.00205" source="node144" target="node148"/>
+      <edge id="edge160" length="0.01484" source="node142" target="node144"/>
+      <edge id="edge161" length="0.05584" source="node142" target="node158"/>
+      <edge id="edge162" length="0.00836" source="node6" target="node8"/>
+      <edge id="edge163" length="0.00261" source="node6" target="node142"/>
+      <edge id="edge176" length="0.03151" source="node170" target="node172"/>
+      <edge id="edge177" length="0.03238" source="node170" target="node174"/>
+      <edge id="edge178" length="0.05221" source="node166" target="node168"/>
+      <edge id="edge179" length="0.01656" source="node166" target="node170"/>
+      <edge id="edge182" length="0.0049" source="node164" target="node166"/>
+      <edge id="edge183" length="0.20594" source="node164" target="node180"/>
+      <edge id="edge190" length="0.03927" source="node184" target="node186"/>
+      <edge id="edge191" length="0.0413" source="node184" target="node188"/>
+      <edge id="edge192" length="0.0018" source="node4" target="node6"/>
+      <edge id="edge193" length="0.00521" source="node4" target="node164"/>
+      <edge id="edge194" length="0.02125" source="node4" target="node184"/>
+    </tree>
+  </trees>
+</nex:nexml>
